@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPA_leem38_Calculator</string>
+    <string name="portraitText">Portrait</string>
+    <string name="landscrapeText">Landscape</string>
+</resources>
